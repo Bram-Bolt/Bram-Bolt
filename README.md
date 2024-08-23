@@ -1,6 +1,6 @@
 # 💫 Hi, I’m Bram!
 - 🔭 I’m currently working on **[Scala Angel](https://github.com/bram-bolt/scala-angel)**   
-- 🌱 I’m currently learning **Scala, [Back-End](https://boot.dev), C.**  
+- 🌱 I’m currently learning **Scala, [Back-End](https://boot.dev),** and **C** with @hujanbiru  
 - 👯 I’m looking to collaborate on **Anything!**  
 - 💜 I’m Passionate about **Functional Programming, Data Analysis, Monte Carlo simulations.**  
 - ⭐ I'm experienced in building **[FastAPI Web-Apps](https://github.com/Bram-Bolt/mc-moji-API)** and self-hosted **Rasperry Pi projects**
