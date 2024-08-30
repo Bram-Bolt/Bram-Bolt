@@ -1,6 +1,6 @@
 # 💫 Hi, I’m Bram!
 - 🧑‍🎓 2nd Year BSc in **Artificial Intelligence**
-- 🔭 I’m currently working on **[Computer Angel](https://github.com/bram-bolt/computer-angel)** and **[splitser-to-csv](https://github.com/bram-bolt/splitser-to-csv)**   
+- 🔭 I’m currently working on **[Computer Angel](https://github.com/bram-bolt/computer-angel)** and **whats-in-my-freezer**   
 - 🌱 I’m currently learning **Scala, [Back-End](https://boot.dev),** and **C** with [@hujanbiru](https://github.com/hujanbiru/)
 - 👯 I’m looking to collaborate on **Anything!**  
 - 💜 I’m Passionate about **Functional Programming, Data Analysis, Monte Carlo simulations.**  
