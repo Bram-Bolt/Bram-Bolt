@@ -1,7 +1,7 @@
 # 💫 Hi, I’m Bram!
 - 🧑‍🎓 2nd Year BSc in **Artificial Intelligence**
 - 🔭 I’m currently working on **[Computer Angel](https://github.com/bram-bolt/computer-angel)** and **whats-in-my-freezer**   
-- 🌱 I’m currently learning **[Haskell](https://learn-haskell.blog/) and Front-End** 
+- 🌱 I’m currently learning **C** 
 - 👯 I’m looking to collaborate on **Anything!**  
 - 💜 I’m Passionate about **Functional Programming, Data Analysis, Monte Carlo simulations.**  
 - ⭐ I'm experienced in building **[FastAPI Web-Apps](https://github.com/Bram-Bolt/mc-moji-API)** and self-hosted **Rasperry Pi projects**
