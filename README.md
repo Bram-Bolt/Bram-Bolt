@@ -1,9 +1,9 @@
 # 💫 Hi, I’m Bram!
-- 🧑‍🎓 2nd Year BSc in **Artificial Intelligence**
-- 🔭 I’m currently working on **[Computer Angel](https://github.com/bram-bolt/computer-angel)** and **whats-in-my-freezer**   
-- 🌱 I’m currently learning **C** 
+- 🧑‍🎓 3rd Year BSc in **Artificial Intelligence**
+- 🔭 I’m currently working on building my own cluster and reimplementing Alter & Oppenheimers 2006 work.
+- 🌱 I’m currently learning **ProxMox** 
 - 👯 I’m looking to collaborate on **Anything!**  
-- 💜 I’m Passionate about **Functional Programming, Data Analysis, Monte Carlo simulations.**  
+- 💜 I’m Passionate about **[Reinforcement Learning](https://github.com/OlivierBroekman/herringbone), Data Analysis, Monte Carlo simulations.**  
 - ⭐ I'm experienced in building **[FastAPI Web-Apps](https://github.com/Bram-Bolt/mc-moji-API)** and self-hosted **Rasperry Pi projects**
 - 📫 E-mail me via **contact@brambolt.me or discord @brambolt**
 ### Tech Stack
