@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **ProxMox** 
 - 👯 I’m looking to collaborate on **Anything!**  
 - 💜 I’m Passionate about **[Reinforcement Learning](https://github.com/OlivierBroekman/herringbone), Data Analysis, Monte Carlo simulations.**  
-- ⭐ I'm experienced in building **[FastAPI Web-Apps](https://github.com/Bram-Bolt/mc-moji-API)** and self-hosted **Rasperry Pi projects**
+- ⭐ I'm experienced in building **[FastAPI Web-Apps](https://github.com/Bram-Bolt/mc-moji-API)** and self-hosted **Raspberry Pi projects**
 - 📫 E-mail me via **contact@brambolt.me or discord @brambolt**
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
